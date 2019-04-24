@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "burger", "burger\burger.vbproj", "{ED9F42BB-3AB7-4311-A09A-E06082099172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		burger|Any CPU = burger|Any CPU
+		burger|x86 = burger|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.burger|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.burger|Any CPU.Build.0 = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.burger|x86.ActiveCfg = Debug|x86
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.burger|x86.Build.0 = Debug|x86
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Debug|x86.ActiveCfg = Debug|x86
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Debug|x86.Build.0 = Debug|x86
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Release|x86.ActiveCfg = Release|x86
+		{ED9F42BB-3AB7-4311-A09A-E06082099172}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

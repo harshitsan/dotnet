@@ -1,0 +1,14 @@
+D:\burger\burger\burger\bin\x86\Debug\burger.exe
+D:\burger\burger\burger\bin\x86\Debug\burger.pdb
+D:\burger\burger\burger\bin\x86\Debug\burger.xml
+D:\burger\burger\burger\obj\x86\Debug\burger.vbprojResolveAssemblyReference.cache
+D:\burger\burger\burger\obj\x86\Debug\burger.Resources.resources
+D:\burger\burger\burger\obj\x86\Debug\burger.vbproj.GenerateResource.Cache
+D:\burger\burger\burger\obj\x86\Debug\burger.exe
+D:\burger\burger\burger\obj\x86\Debug\burger.xml
+D:\burger\burger\burger\obj\x86\Debug\burger.pdb
+D:\burger\burger\burger\obj\x86\Debug\burger.order.resources
+D:\burger\burger\burger\obj\x86\Debug\burger.login.resources
+D:\burger\burger\burger\obj\x86\Debug\burger.details.resources
+D:\burger\burger\burger\obj\x86\Debug\burger.invoice.resources
+D:\burger\burger\burger\obj\x86\Debug\burger.customer.resources

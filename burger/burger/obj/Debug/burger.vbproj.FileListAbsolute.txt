@@ -1,0 +1,9 @@
+D:\burger\burger\burger\obj\Debug\burger.Form1.resources
+D:\burger\burger\burger\obj\Debug\burger.Resources.resources
+D:\burger\burger\burger\obj\Debug\burger.vbproj.GenerateResource.Cache
+D:\burger\burger\burger\obj\Debug\burger.xml
+D:\burger\burger\burger\bin\Debug\burger.exe
+D:\burger\burger\burger\bin\Debug\burger.pdb
+D:\burger\burger\burger\bin\Debug\burger.xml
+D:\burger\burger\burger\obj\Debug\burger.exe
+D:\burger\burger\burger\obj\Debug\burger.pdb
